@@ -1,4 +1,17 @@
 # react_heat
+Projeto feito a partir do evento Next Level Week (NLW) da Rocketseat, onde pude aprender e novos conceitos e aprofundar na utilização de javascript
+
+#### O que aprendi neste projeto:
+ - Uso de Sass
+ - Autenticação com OAuth (Github)
+ - Uso do axios para conexão com a API
+ - Aprendendo React
+   - Componentes
+   - Estados
+   - Contextos
+   - Typescript, entre outros...
+ 
+
 
 ## Screenshots
 ![Captura de tela de 2022-04-16 17-24-31](https://user-images.githubusercontent.com/59426281/163690559-13b51036-fdff-4742-be89-6f90b51b9f8a.png)
