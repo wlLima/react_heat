@@ -1,6 +1,8 @@
 # react_heat
 
 ## Screenshots
+![Captura de tela de 2022-04-16 17-24-31](https://user-images.githubusercontent.com/59426281/163690559-13b51036-fdff-4742-be89-6f90b51b9f8a.png)
+
 
 ## Como Rodar o Projeto
 
