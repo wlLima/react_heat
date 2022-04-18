@@ -14,7 +14,8 @@ Projeto feito a partir do evento Next Level Week (NLW) da Rocketseat, onde pude 
 
 
 ## Screenshots
-![Captura de tela de 2022-04-16 17-24-31](https://user-images.githubusercontent.com/59426281/163690559-13b51036-fdff-4742-be89-6f90b51b9f8a.png)
+![Captura de tela de 2022-04-18 00-08-30](https://user-images.githubusercontent.com/59426281/163748342-1dd82b3b-87b0-4bfb-b67c-f06c54d0db54.png)
+
 ![Captura de tela de 2022-04-18 00-06-35](https://user-images.githubusercontent.com/59426281/163748288-b6c14283-3d6a-4c41-9e6f-c358840602cb.png)
 
 
